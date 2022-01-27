@@ -109,9 +109,3 @@ http://scgctvshow.sctv.com/hdlive/sctv4/1.m3u8
 http://scgctvshow.sctv.com/hdlive/sctv9/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" tvg-id="6557" tvg-name="风云音乐" group-title="音乐",中数风云音乐
 http://42.176.185.28:9901/tsfile/live/1024_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",多啦a梦
-http://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",多啦b梦
-http://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="音乐",多啦c梦
-http://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
